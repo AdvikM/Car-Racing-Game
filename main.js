@@ -2,7 +2,7 @@ canvas = document.getElementById("myCanvas");
 ctx = canvas.getContext("2d");
 car1_width = 120;
 car1_height = 70;
-car1_image = "car1.jfif";
+car1_image = "car1.png";
 car1_x = 10;
 car1_y = 10;
 
